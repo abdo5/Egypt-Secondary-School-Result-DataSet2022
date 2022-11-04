@@ -2,11 +2,9 @@
 This is a ataset for egyptian secondary sxchool grade scrabed frpm shbabik website
 
 ## All scores are in the file:
-00 from 100000 to 999999
-
+<a href = 'https://github.com/abdo5/Egypt-Secondary-School-Result-DataSet2022/blob/main/00_secondarySchool_ntiga2022%20from_100000-999999.rar'>00 from 100000 to 999999 </a>
 ## Other files contains score for seat number ranges:
-<ol>
-<li>from 100000 to 199999  
+<li>from 100000 to 199999 
 <li>from 200000 to 299999  
 <li>from 300000 to 399999   
 <li>from 400000 to 499999   
