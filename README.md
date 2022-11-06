@@ -36,7 +36,7 @@ You can check it by openening in notepadd++, or import it in an Excel sheet.
 The program work good in this state as I stoped improving it.
 
 <table> 
-  <tr>Tools01 Tools developed to scrap the result<td colspan="2"> </td></tr>
+  <tr><td colspan="2">Tools01 Tools developed to scrap the result<td colspan="2"> </td></tr>
 <tr>
 <td><a ref ='https://github.com/Soliman2020/Egypt_high_school_results_software'>Egypt_high_school_results_software</td>
 <td><a href = 'https://omdenachapter-hpe1429.slack.com/team/U048MB6QFB4'>Mohamed Soliman</td>
