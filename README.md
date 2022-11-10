@@ -28,9 +28,12 @@ It svae the data in 3 files:
 # Using the program
 <ol>Doubleclick the program to run it, follow the on screen instruction
 <ol>Enter 1 to enter seat numbers in range, or 2 to enter start range and number of required students.
-<ol> the data files will be saved in the program folder.
+<ol>The data files will be saved in the program folder.
 
 You can check it by openening in notepadd++, or import it in an Excel sheet.
 
 ## notes
 The program work good in this state as I stoped improving it.
+
+#The second exam result fromnatiga24:
+There 3 giles one in arabic language and the other in Rnglish
