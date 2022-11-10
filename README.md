@@ -35,5 +35,9 @@ You can check it by openening in notepadd++, or import it in an Excel sheet.
 ## notes
 The program work good in this state as I stoped improving it.
 
+<<<<<<< HEAD
 #The second exam result fromnatiga24:
 There 3 giles one in arabic language and the other in Rnglish
+=======
+
+>>>>>>> 426c4e99fee91ef64b6cc115e379abb1cb77810b
